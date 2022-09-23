@@ -24,4 +24,4 @@ Projeto de site desenvolvido durante o evento do Next Level Week da RocketSeat.
 ## Agradecimento
 ### [![Rocketseat](https://www.rocketseat.com.br/assets/logos/rocketseat.svg)](https://www.rocketseat.com.br/)
 
-### [![Mayk Brito](https://avatars.githubusercontent.com/u/6643122?v=4) ](https://github.com/maykbrito)
+### [![Mayk Brito](https://avatars.githubusercontent.com/u/6643122?v=4) <br> <p>Mayk Brito (instrutor)</p>](https://github.com/maykbrito)
