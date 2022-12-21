@@ -4,7 +4,7 @@ Projeto de site desenvolvido durante o evento do Next Level Week da RocketSeat.
 
 ![preview](./assets/preview.png)
 
-### [🔗Acesse aqui para acessar a página](https://swaveng.github.io/NLW-Esport-Explorer/)
+### [🔗Acesse aqui para acessar a página](https://ngemir.github.io/NLW-Esport-Explorer/)
 ### <img src="https://cdn-icons-png.flaticon.com/128/747/747545.png" style="height: 20px"> [Meu Contato](https://linktr.ee/emirng)
 
 
